@@ -1,4 +1,4 @@
-# Moon-NukerV2 - The fastest discord nuker../bot thingy 💀
+# Moon-NukerV3 - The fastest discord nuker../bot thingy 💀
 
 **Tutorial**
 1. download this as a zip
