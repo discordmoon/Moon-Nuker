@@ -1,4 +1,4 @@
-# Moon-NukerV3 - The fastest discord nuker../bot thingy 💀
+# Moon-NukerV3/v4 - The fastest discord nuker../bot thingy 💀
 
 **Tutorial**
 1. download this as a zip
@@ -9,8 +9,12 @@
 6. after you do that go to discord and invite the bot to a server and do {Prefix}help to see all commands
 7. Enjoy!!!
 
+# why keep the V3 file?
+**The V3 file uses the bot to send messages (slower) and it doesn't rate limit the server like webhooks do**
+**V4 uses webhooks to send messages (faster) and it rate limits the/that server so like if you do the .kill once its gonna be good the second time it will only send it some channels**
 
-# source code = 2$
+# v3 source code = 2$
+# v4 source code = 2$
 
 # FAQ
 
